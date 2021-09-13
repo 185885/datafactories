@@ -1,0 +1,9 @@
+{
+	"name": "ustadf-11",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "85548c0a-a416-414c-b290-bb1c50778990",
+		"tenantId": "a4431f4b-c207-4733-9530-34c08a9b2b8d"
+	}
+}
